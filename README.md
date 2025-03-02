@@ -1,1 +1,2 @@
 # odin-recipes
+Esta atividade consistiu em montar um site de receitas com somente HTML utilizando os conhecimentos inicias do The Odin Project, nela foram explorado, Criação de Arquivos, Git e Estrutura Html
